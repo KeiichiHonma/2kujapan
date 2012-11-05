@@ -1,63 +1,63 @@
 <?php
 //table
 //user
-define('T_USER',                  'kujapan.tab_kujapan_user');
+define('T_USER',                  '2kujapan.tab_kujapan_user');
 define('A_USER',                  'u');
 //partner
-define('T_PARTNER',                  'kujapan.tab_kujapan_partner');
+define('T_PARTNER',                  '2kujapan.tab_kujapan_partner');
 define('A_PARTNER',                  'p');
 //member
-define('T_MANAGER',               'kujapan.tab_kujapan_manager');
+define('T_MANAGER',               '2kujapan.tab_kujapan_manager');
 define('A_MANAGER',               'm');
 //shop
-define('T_SHOP',               'kujapan.tab_kujapan_shop');
+define('T_SHOP',               '2kujapan.tab_kujapan_shop');
 define('A_SHOP',               's');
 //shop
-define('T_SHOP_ITEM',          'kujapan.tab_kujapan_shop_item');
+define('T_SHOP_ITEM',          '2kujapan.tab_kujapan_shop_item');
 define('A_SHOP_ITEM',          'si');
 
 //autoLogin
-define('T_AUTO',                  'kujapan.tab_kujapan_auto_login');
+define('T_AUTO',                  '2kujapan.tab_kujapan_auto_login');
 define('A_AUTO',                  'au');
 //tmpRegist
-define('T_REGIST',                'kujapan.tab_kujapan_tmp_regist');
+define('T_REGIST',                '2kujapan.tab_kujapan_tmp_regist');
 define('A_REGIST',                'r');
 //area
-define('T_AREA',                  'kujapan.tab_kujapan_area');
+define('T_AREA',                  '2kujapan.tab_kujapan_area');
 define('A_AREA',                  'a');
 //genre
-define('T_GENRE',                 'kujapan.tab_kujapan_genre');
+define('T_GENRE',                 '2kujapan.tab_kujapan_genre');
 define('A_GENRE',                 'g');
 //feature
-define('T_FEATURE',               'kujapan.tab_kujapan_feature');
+define('T_FEATURE',               '2kujapan.tab_kujapan_feature');
 define('A_FEATURE',               'fe');
 //group
-define('T_GROUP',                 'kujapan.tab_kujapan_group');
+define('T_GROUP',                 '2kujapan.tab_kujapan_group');
 define('A_GROUP',                 'gr');
 //group_relation
-define('T_GROUP_RELATION',        'kujapan.tab_kujapan_group_relation');
+define('T_GROUP_RELATION',        '2kujapan.tab_kujapan_group_relation');
 define('A_GROUP_RELATION',        'grr');
 
 //coupon
-define('T_COUPON',                'kujapan.tab_kujapan_coupon');
+define('T_COUPON',                '2kujapan.tab_kujapan_coupon');
 define('A_COUPON',                'c');
 
 //coupon
-define('T_COUPON_LOG',                'kujapan.tab_kujapan_coupon_log');
+define('T_COUPON_LOG',                '2kujapan.tab_kujapan_coupon_log');
 define('A_COUPON_LOG',                'cl');
 
 //goodscore
-define('T_COUPONSCORE',           'kujapan.tab_kujapan_score');
+define('T_COUPONSCORE',           '2kujapan.tab_kujapan_score');
 define('A_COUPONSCORE',           'cs');
 //news
-define('T_NEWS',                  'kujapan.tab_kujapan_news');
+define('T_NEWS',                  '2kujapan.tab_kujapan_news');
 define('A_NEWS',                  'n');
 //file
-define('T_FILES',                 'kujapan.tab_kujapan_files');
+define('T_FILES',                 '2kujapan.tab_kujapan_files');
 define('A_FILES',                 'f');
 
 //inquiry
-define('T_INQUIRY',               'kujapan.tab_kujapan_inquiry');
+define('T_INQUIRY',               '2kujapan.tab_kujapan_inquiry');
 define('A_INQUIRY',               'iq');
 
 define('MINIMUM',        0);//最小カラム

@@ -31,7 +31,7 @@ define('DATABASE_ASC', FALSE);//昇順
 class database
 {
     //DB
-    private $strDBName        = "kujapan";
+    private $strDBName        = "2kujapan";
     private $strHostName      = "localhost";
     private $strPort          = "3306";
     private $strUser          = "db_apollon";
